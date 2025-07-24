@@ -1,4 +1,4 @@
- #To-Do List - Python CLI App
+ # To-Do List - Python CLI App
 
 This is a simple to-do list application made using Python. It runs in the terminal and helps you manage your daily tasks.
 
