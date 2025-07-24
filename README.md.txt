@@ -58,5 +58,5 @@ tasks.json → Stores all the tasks
 
 README.md → This file with instructions
 
-# Made by: Pragya
+# Made by: Pragya singh
 Week 1 – Python Internship Project
